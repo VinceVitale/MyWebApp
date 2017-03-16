@@ -5,6 +5,7 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:orientation="horizontal"
+    android:baselineAligned="false"
     tools:context="com.vincevitale.mywebapp.MainActivity">
 
 
